@@ -5,6 +5,8 @@ During the past week I started using python and one thing we had to do was creat
 
 
 So after I did that part I decided to use conditional statements so that I can add,delete and select certain tasks. Now for the part that can be trouble which was the ability to delete/remove tasks . So in order to do that I had researched on how I can do it and I learned that I can use the int function and used a number -1 in order to remove tasks.
+![alt text](code2.png)
 Therefore after that I just used the break function to stip the code from constantly running when it doesn't need to. 
   Finally after all that i just had my code print the list with all the tasks you.
  			
+
