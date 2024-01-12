@@ -3,3 +3,4 @@ During my summer I did a decent amount of things. For example, one thing I did w
 
 Then at my next job, I downloaded and tested a bunch of softwares and then I wrote down info that I could get from the software by using the terminal software that is installed on the laptops. It was very boring though
 
+
