@@ -1,0 +1,14 @@
+   Blog Post: My Experience With Flask
+
+
+   In my time in the Brooklyn Steam center we have used an application called Flask which is known as a web framework/microframework and many other things. However the main use for it is to allow developers and users the ability to create web applications. 
+ However if you work in code or know a little bit about it you might have heard of HTML & CSS<. which can also be used in web applications and other features so you might be wondering what the difference is. Therefore the difference between the two is that Flask is a Python web framework used to build web applications and manage routes. However HTML and CSS are used for styling and formatting web applications to make sure it's more visually appealing and it's more user friendly white html helps structure the web content. 
+ Now for when I personally started using flask there were some resources I used to help me get better at using it, which was w3schools, the official flask website, and geeksforgeeks website. 
+
+
+
+ Additionally I did encounter some problems when using a flask myself. Now the main problem I had was getting used to all the different codes that were required to use it. For example whenever you had to create different pages in the website you would have to use a command call app and render. However the problem I had with that is that if there is one error, like a misspelling or you didn't uppercase or lowercase a certain letter it would not work. Also because  at the stage I was in because I said so many different codes, if there was an error it was very hard to find it especially since the program can't show those types of specific errors all the time. 
+  However besides all those errors I did manage to match and fix them and was able to continue making my flask applicator project. Now the project which i'm using flask for is a social media application. Now in my social media application I have had to use flask for a lot of different things in it. For example I have to use it to import a login and sign up system for my social media app which requires me to connect my code to a database.  
+   Now a database is a structured collection of data that can be used to manage and update different systems in a computer program. 
+    Now because I had to connect it to my database it also required me to set up a sort of diagram which would hold all the important data I need for my social media app. For example I had to create something to hold user information like passwords,username, and profile pictures.
+   Additionally I also created one to hold information on the comments underneath posts/images like the time and date of the comment and the words in the comment. However overall I can say that the project has been enjoyable to a certain degree and it will be fun to use flask more hopefully in the future when I get a better hang on using it.
